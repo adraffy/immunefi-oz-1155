@@ -1,0 +1,20 @@
+{
+  "lib/forge-poc-templates": {
+    "rev": "32f4ccd9049e641cc3723b1e091d33b6b0e8ff34"
+  },
+  "lib/forge-std": {
+    "rev": "3b20d60d14b343ee4f908cb8079495c07f5e8981"
+  },
+  "lib/oz4": {
+    "branch": {
+      "name": "release-v4.9",
+      "rev": "dc44c9f1a4c3b10af99492eed84f83ed244203f6"
+    }
+  },
+  "lib/oz5": {
+    "branch": {
+      "name": "release-v5.0",
+      "rev": "dbb6104ce834628e473d2173bbc9d47f81a9eec3"
+    }
+  }
+}
